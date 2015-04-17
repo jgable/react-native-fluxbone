@@ -1,6 +1,6 @@
 {
   "name": "react-native-fluxbone",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A group of libraries that help with the FluxBone pattern in React Native",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,11 @@
     "url": "git://github.com/jgable/react-native-fluxbone.git"
   },
   "keywords": [
-    "react",
-    "native",
+    "react-component",
+    "react-native",
+    "ios",
+    "backbone",
+    "flux",
     "fluxbone"
   ],
   "author": "Jacob Gable <jacob.gable@gmail.com>",
